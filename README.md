@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/nikcolastancredi/calculator.svg?branch=master)](https://travis-ci.org/nikcolastancredi/calculator)
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
